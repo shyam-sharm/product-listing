@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .items-box :last-child{
+    border: none !important;
+} */
+.active-cat{
+    font-weight: bold;
+    color: #3498db;
+    border-left: 10px solid #3498db ;
+}
